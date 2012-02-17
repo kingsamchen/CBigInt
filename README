@@ -1,0 +1,11 @@
+CBigInt
+
+Descrption:
+
+CBigInt is a class providing big integer calculation without any length limitation, theoretically, in cpp
+
+CBigInt is also MSVC compatible only ( VC2005 or higher ) because of safety memory manipulation enhancement runtime used.
+
+But if you use the standard manipulation runtime instead, it might be portable with other compilers.
+
+thanks for supporting :-)
